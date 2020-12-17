@@ -6,7 +6,10 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-
+<?php>
+  echo "hello world";
+  ?>
+  
 <div class="jumbotron text-center" style="height: 10px">
   <h1>Welcome To E-Portal</h1> 
 </div>
@@ -110,6 +113,5 @@ function save(){
     
   }
 </script>
-
 </body>
 </html>
